@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590218112695",
+    "project_id": "p4-hrapp",
+    "storage_bucket": "p4-hrapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590218112695:android:93b3f68b3e817051e22732",
+        "android_client_info": {
+          "package_name": "com.example.p4_hrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590218112695-5v872u6bck188s7c9v3k3jk8p2540k8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCxVp9NAPNkciu7YT6YcNB_-CTLKnwxO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590218112695-5v872u6bck188s7c9v3k3jk8p2540k8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
